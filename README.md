@@ -1,2 +1,2 @@
 # Cpp
-Programs on basics of C++ during learning language
+This repository contains programs on basics of C++ 
